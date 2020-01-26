@@ -41,11 +41,12 @@ Deep Neural Networks code related to Computer vision
    
          for i in arr_rev:
          
-               print('{} * {} | 3*3 | {} * {}' .format(i,i,i-2,i-2) )
+               print('{} * {} | 3*3 | {} * {}\n' .format(i,i,i-2,i-2) )
   
   The result is as follows:
   
   99
+  
 199 * 199 | 3*3 | 197 * 197
 
 197 * 197 | 3*3 | 195 * 195
