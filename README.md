@@ -31,22 +31,21 @@ Deep Neural Networks code related to Computer vision
 
    The convolution happens 99 times until the receptive field is equal to the size of the image.
    
-   arr=[i for i in range(200) if i%2 !=0]
+         arr=[i for i in range(200) if i%2 !=0]
    
-   arr_rev=arr[::-1]
+         arr_rev=arr[::-1]
    
-   arr_rev.pop()
+         arr_rev.pop()
    
-   print(len(arr_rev))
+         print(len(arr_rev))
    
-   for i in arr_rev:
-   
-        print('{} * {} | 3*3 | {} * {}' .format(i,i,i-2,i-2) )
+         for i in arr_rev:
+         
+               print('{} * {} | 3*3 | {} * {}' .format(i,i,i-2,i-2) )
   
   The result is as follows:
   
   99
-  
 199 * 199 | 3*3 | 197 * 197
 
 197 * 197 | 3*3 | 195 * 195
@@ -146,6 +145,7 @@ Deep Neural Networks code related to Computer vision
 103 * 103 | 3*3 | 101 * 101
 
 101 * 101 | 3*3 | 99 * 99
+
 99 * 99 | 3*3 | 97 * 97
 
 97 * 97 | 3*3 | 95 * 95
@@ -232,7 +232,6 @@ Deep Neural Networks code related to Computer vision
 
 15 * 15 | 3*3 | 13 * 13
 
-
 13 * 13 | 3*3 | 11 * 11
 
 11 * 11 | 3*3 | 9 * 9
@@ -245,6 +244,11 @@ Deep Neural Networks code related to Computer vision
 
 3 * 3 | 3*3 | 1 * 1
 
+  
+-------------------------------
+  
+  
+ 
 
 
 
