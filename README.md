@@ -1,3 +1,99 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+First file Second file EVA$_S5_2
+
+Analysis
+
+Reduced the model capacity
+
+8K total parameters
+
+The model is overfitting
+
+Training accuracy of 98.77 and testing accuracy 98.4
+-----------------------------
+Second file EVA$_S5_2
+Analysis
+
+Increased the model capacity
+
+17K total parameters
+
+The model is overfitting
+
+Training accuracy of 98.77 and testing accuracy 99.1
+------------------------------------
+
+Third file EVA$_S3
+Analysis
+
+Increased the model capacity, added LR scheduler, BN and dropout
+
+13K total parameters
+
+The model is underfitting
+
+Training accuracy of 98.4 and testing accuracy 99.1
+----------------------
+Analysis EVA4S4
+
+Added Image augmentation
+
+13K total parameters
+
+The model is underfitting
+
+Training accuracy of 98.6 and testing accuracy 99.3
+-----------------------
+
+Analysis
+
+Reduced the model capacity
+
+9716 total parameters
+
+The model is overfitting
+
+Training accuracy of 98.56 and testing accuracy 98.4
+---------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # EVA4 S1
 Deep Neural Networks code related to Computer vision
 
