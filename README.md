@@ -3,18 +3,7 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-First file Second file EVA$_S5_2
+First file  EVA$_S5_2
 
 Analysis
 
@@ -25,6 +14,7 @@ Reduced the model capacity
 The model is overfitting
 
 Training accuracy of 98.77 and testing accuracy 98.4
+
 -----------------------------
 Second file EVA$_S5_2
 Analysis
@@ -36,6 +26,7 @@ Increased the model capacity
 The model is overfitting
 
 Training accuracy of 98.77 and testing accuracy 99.1
+
 ------------------------------------
 
 Third file EVA$_S3
@@ -48,6 +39,7 @@ Increased the model capacity, added LR scheduler, BN and dropout
 The model is underfitting
 
 Training accuracy of 98.4 and testing accuracy 99.1
+
 ----------------------
 Analysis EVA4S4
 
@@ -58,7 +50,10 @@ Added Image augmentation
 The model is underfitting
 
 Training accuracy of 98.6 and testing accuracy 99.3
+
 -----------------------
+
+EVA4 S5
 
 Analysis
 
@@ -69,6 +64,7 @@ Reduced the model capacity
 The model is overfitting
 
 Training accuracy of 98.56 and testing accuracy 98.4
+
 ---------------------
 
 
